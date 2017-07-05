@@ -1,3 +1,3 @@
-This contains Html, Css, Js. step 5 first line!
+This contains Html, Css, Js. step 0 first line! Make changes to first line 
 
-make changes on line 3 step 8
+make changes on line 0 step 0
